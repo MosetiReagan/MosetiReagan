@@ -10,7 +10,7 @@ Full-stack and mobile developer focused on building practical products for real-
 
 **Mobile:** Flutter, Dart
 
-**Tooling & Services:** Firebase, Git, API integrations, deployment workflows
+**Tooling & Services:** Docker, Firebase, Git, API integrations, deployment workflows
 
 ## Focus Areas
 
