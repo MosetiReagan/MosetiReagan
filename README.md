@@ -4,35 +4,39 @@
 
 **Technology Leader · Product Engineering**
 
-I lead technology from strategy through execution—turning business goals into scalable systems, disciplined engineering practices, and products that ship. My focus is pragmatic architecture, high-ownership teams, and measurable delivery.
+I turn complex business problems into clear technology decisions, scalable products, and teams that deliver with confidence. My leadership spans architecture, engineering, product experience, and executive communication.
 
 </div>
 
-## Leadership Focus
+## Leadership Profile
 
-- **Technology strategy:** Align engineering decisions with commercial objectives, growth constraints, and operational reality.
-- **Architecture & delivery:** Own system design, API strategy, data models, release discipline, and production reliability.
-- **Team execution:** Build clear engineering processes, raise code quality, and create accountability across development cycles.
-- **Product engineering:** Connect user experience, data, and business workflows into products that solve real operational problems.
+| Area | Leadership Focus |
+| --- | --- |
+| **Technology Strategy** | Align architecture and delivery decisions with commercial goals, growth constraints, and operational reality. |
+| **Product Engineering** | Translate user needs, business workflows, and data into products that create measurable value. |
+| **Experience Leadership** | Own UI/UX direction, design systems, and product usability—not just implementation. |
+| **Team Execution** | Establish engineering standards, delivery discipline, and clear accountability across teams. |
+| **Executive Communication** | Present technical complexity as clear trade-offs, risks, recommendations, and business outcomes. |
 
 ## Technical Depth
 
-I remain close enough to the code to make credible architecture decisions, evaluate trade-offs, and lead engineers with clarity.
+I remain close enough to the code to make credible architecture decisions, evaluate engineering trade-offs, and lead technical teams with precision.
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Vite, Radix UI
+**Product & Experience:** React, Next.js, TypeScript, Tailwind CSS, Radix UI, Framer Motion, design systems, responsive UI, accessibility
 
-**Backend:** Laravel, PHP, Node.js, Express, REST APIs, MySQL
+**Engineering & Architecture:** Laravel, PHP, Node.js, Express, REST APIs, MySQL, API design, data modeling
 
 **Mobile:** Flutter, Dart
 
-**Platform & Operations:** Docker, Firebase, Git, CI/CD, API integrations, deployment workflows
+**Platform & Operations:** Docker, Firebase, Git, CI/CD, API integrations, deployment workflows, reliability practices
 
 ## Operating Principles
 
-- Ship outcomes, not just features.
-- Design for scale without over-engineering the first version.
-- Make architecture decisions explicit, documented, and reversible where possible.
-- Treat security, maintainability, and operational cost as engineering requirements—not afterthoughts.
+- Lead with outcomes: every technical decision should connect to a business result.
+- Make decisions clear: context, options, trade-offs, and a recommendation.
+- Design for people first, then for scale, performance, and maintainability.
+- Build systems that can evolve without creating operational debt.
+- Treat security, accessibility, and reliability as product requirements—not afterthoughts.
 
 ## Let's Connect
 
