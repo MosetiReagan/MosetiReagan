@@ -2,11 +2,9 @@
 
 # Reagan Moseti
 
-**Technology Leader · CTO / Tech Lead · Product Engineering**
+**Technology Leader · Product Engineering**
 
 I lead technology from strategy through execution—turning business goals into scalable systems, disciplined engineering practices, and products that ship. My focus is pragmatic architecture, high-ownership teams, and measurable delivery.
-
-Open to **CTO**, **Tech Lead**, and **Head of Engineering** opportunities.
 
 </div>
 
